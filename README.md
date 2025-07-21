@@ -22,7 +22,7 @@ and global help system to inform the user of the best course of action.
 
 # Install
 
-`cd expense-tracker-fe`
-`npm i`
-`npm run build`
+`cd expense-tracker-fe` <br>
+`npm i` <br>
+`npm run build` <br>
 
