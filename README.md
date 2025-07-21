@@ -15,10 +15,10 @@ To Keep up to date with modern technologies, this app has an array of features t
 and global help system to inform the user of the best course of action.
 
 # Technologies Used:
-` React - TypeScript & JavaScript `
-` NodeJS - Backend and Authentication `
-` ExpressJS `
-` MongoDB - NoSQL Solution for a User Database ` 
+` React - TypeScript & JavaScript ` <br>
+` NodeJS - Backend and Authentication ` <br>
+` ExpressJS ` <br>
+` MongoDB - NoSQL Solution for a User Database `  <br>
 
 # Install
 
